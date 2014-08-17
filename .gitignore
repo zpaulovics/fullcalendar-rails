@@ -15,3 +15,11 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+
+
+# Mac finder artifacts
+.DS_Store
+
+
+# RubyMine project files
+.idea
